@@ -1,3 +1,4 @@
+# quantum-computing
 This repository is my personal learning space where I explore and document quantum algorithms. It serves as a self-study guide to deepen my understanding of quantum computing concepts and techniques.
 
 Here, you'll find:
